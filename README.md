@@ -1,2 +1,5 @@
-# jubilant-robot
-Godot Multi Sensory Resources
+# Building Multi-Sensory XR Projects in Godot
+
+
+
+
